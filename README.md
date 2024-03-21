@@ -52,9 +52,9 @@ I am committed to continuous advancement in my field.
 <h4 align="left">👇🏻 My stats:</h4>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okanyilmazz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="145" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=okanyilmazz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="145" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=okanyilmazz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="145" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=okanyilmazz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=okanyilmazz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="120" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=okanyilmazz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="120" alt="languages graph"  />
 </div>
 
 ###
